@@ -1,0 +1,23 @@
+{
+  "name": "pandanet-io-proxy",
+  "version": "0.0.1",
+  "description": "Socket.io proxy for the Pandanet (IGS) protocol",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dawicorti/pandanet-io-proxy.git"
+  },
+  "keywords": [
+    "io",
+    "pandanet",
+    "igs",
+    "proxy"
+  ],
+  "dependencies": {
+    "pandanet-client": "x.x.x",
+    "underscore": "x.x.x",
+    "socket.io": "0.9.x"
+  },
+  "author": "David Corticchiato",
+  "license": "BSD"
+}
